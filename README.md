@@ -1,7 +1,8 @@
 # 나의 첫 배포
 
-![스크린샷](<C:\Users\user\Desktop\download.png/>
-)
+
+![스크린샷](docs/download.png)
+
 
 ## 개발환경
 ```bash
