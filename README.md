@@ -1,6 +1,7 @@
 # 나의 첫 배포
 
-![스크린샷](https://private-user-images.githubusercontent.com/127506024/492689462-e8a51ef7-69f3-4324-9e6a-16bafe744b3b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MTI0MzUsIm5iZiI6MTc1ODYxMjEzNSwicGF0aCI6Ii8xMjc1MDYwMjQvNDkyNjg5NDYyLWU4YTUxZWY3LTY5ZjMtNDMyNC05ZTZhLTE2YmFmZTc0NGIzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwNzIyMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZDkxOGFhOTk0Nzc2Mzg4YTVlZDZlZjY2ZjI1MDc5MzBlYzM0MWQ0ZTNmMzUzZjIxYmE3Y2Q5MGQ1MjRhMTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3hA4nb2ABoleCGxpbzIuLjcPanf3yaoPxDJntDdxUVM)
+![스크린샷](<img width="280" height="180" alt="download" src="https://github.com/user-attachments/assets/8695eb0c-e6ed-4fdb-99db-fb9e779cb222" />
+)
 
 ## 개발환경
 ```bash
@@ -10,4 +11,5 @@ v22.19.0
 $ npm -v
 10.9.3
 ```
+
 
