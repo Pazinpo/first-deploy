@@ -17,7 +17,7 @@ export default async function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/digit.png"
+          src="/download2.png"
           alt="Next.js logo"
           width={181}
           height={38}
