@@ -32,13 +32,15 @@ export default async function Home() {
           <li className="mb-2 tracking-[-.01em]">
              안녕하세요{" "} {data.name} 입니다.
             <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-             잘부탁드립니다
-            깃주소: {data.github}
+             
             </code>
             .
           </li>
           <li className="tracking-[-.01em]">
-            테스트 할 수 없는 건 만들 수 없다.
+             잘부탁드립니다
+          </li>
+          <li className="tracking2-[-.01em]">
+            깃주소: {data.github}
           </li>
         </ol>
 
