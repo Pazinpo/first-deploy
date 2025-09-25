@@ -17,7 +17,7 @@ export default async function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/download2.png"
+          src="/digit.png"
           alt="Next.js logo"
           width={181}
           height={38}
@@ -25,29 +25,10 @@ export default async function Home() {
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
-<<<<<<< HEAD
             안녕하세요 {data.name} 입니다.
           </li>
           <li className="tracking-[-.01em]">
             잘 부탁드립니다.
-=======
-             안녕하세요{" "} {data.name} 입니다.
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-             
-<<<<<<< HEAD
-            깃주소: {data.github}
-            </code>
-            .
-          </li>
-           <li className="tracking-[-.01em]">
-=======
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
->>>>>>> a2be261 (변경사항 추가)
-             잘부탁드립니다
->>>>>>> 7fd486c (로컬 변경 사항 저장)
           </li>
           <li className="tracking-[-.01em]">
             깃주소: {data.github}
